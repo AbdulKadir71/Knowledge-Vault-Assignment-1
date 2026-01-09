@@ -225,3 +225,36 @@ button{
     font-weight: 500;
     color: rgba(0, 25, 49, 1);
 }
+.access-container{
+    width: 1360px;
+    height: 384px;
+    margin: 0 auto;
+    padding: 80px 40px;
+    border-radius: 12px;
+    background: rgba(247, 246, 242, 1);
+}
+.access-content{
+    text-align: center;
+}
+.access-content h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgba(0, 25, 49, 1);
+}
+.access-content p{
+    font-size: 16px;
+    color: rgba(98, 115, 130, 1);
+    margin: 20px 0;
+}
+.access-btn{
+    margin: 0 auto;
+    width: 192px;
+    height: 52px;
+    display: flex;
+    background: rgba(70, 145, 101, 1);
+    border-radius: 4px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+    align-items: center;
+    justify-content: center;
+}
